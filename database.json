@@ -1,0 +1,237 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Admin",
+            "email": "admin@rudimentary.com"
+        },
+        {
+            "id": 2,
+            "name": "Neil Peart",
+            "email": "neil@rush.net"
+        },
+        {
+            "id": 3,
+            "name": "Mikey McGee",
+            "email": "m@gee.com"
+        },
+        {
+            "id": 4,
+            "name": "Buddy Rich",
+            "email": "brich@drums.net"
+        },
+        {
+            "id": 5,
+            "name": "Mickey Mouse",
+            "email": "mickey@mouse.com"
+        },
+        {
+            "id": 6,
+            "name": "Carlton Banks",
+            "email": "c@banks.com"
+        },
+        {
+            "id": 7,
+            "name": "Captain Beefheart",
+            "email": "capt@beef.heart"
+        }
+    ],
+    "studentsProfile": [
+        {
+            "id": 1,
+            "userId": 3,
+            "instructorId": 2,
+            "leaderboardAccess": false
+        },
+        {
+            "id": 2,
+            "userId": 5,
+            "instructorId": 4,
+            "leaderboardAccess": true
+        },
+        {
+            "id": 3,
+            "userId": 6,
+            "instructorId": 2,
+            "leaderboardAccess": true
+        },
+        {
+            "id": 4,
+            "userId": 7,
+            "instructorId": 4,
+            "leaderboardAccess": true
+        }
+    ],
+    "rudiments": [
+        {
+            "id": 1,
+            "name": "Single Stroke Roll"
+        },
+        {
+            "id": 2,
+            "name": "Single Stroke Four"
+        },
+        {
+            "id": 3,
+            "name": "Single Stroke Seven"
+        },
+        {
+            "id": 4,
+            "name": "Multiple Bounce Roll"
+        },
+        {
+            "id": 5,
+            "name": "Triple Stroke Roll"
+        },
+        {
+            "id": 6,
+            "name": "Double Stroke Roll"
+        },
+        {
+            "id": 7,
+            "name": "Five Stroke Roll"
+        },
+        {
+            "id": 8,
+            "name": "Six Stroke Roll"
+        },
+        {
+            "id": 9,
+            "name": "Seven Stroke Roll"
+        },
+        {
+            "id": 10,
+            "name": "Nine Stroke Roll"
+        },
+        {
+            "id": 11,
+            "name": "Ten Stroke Roll"
+        },
+        {
+            "id": 12,
+            "name": "Eleven Stroke Roll"
+        },
+        {
+            "id": 13,
+            "name": "Thirteen Stroke Roll"
+        },
+        {
+            "id": 14,
+            "name": "Fifteen Stroke Roll"
+        },
+        {
+            "id": 15,
+            "name": "Seventeen Stroke Roll"
+        },
+        {
+            "id": 16,
+            "name": "Single Paradiddle"
+        },
+        {
+            "id": 17,
+            "name": "Double Paradiddle"
+        },
+        {
+            "id": 18,
+            "name": "Triple Paradiddle"
+        },
+        {
+            "id": 19,
+            "name": "Paradiddle-Diddle"
+        },
+        {
+            "id": 20,
+            "name": "Flam"
+        },
+        {
+            "id": 21,
+            "name": "Flam Accent"
+        },
+        {
+            "id": 22,
+            "name": "Flam Tap"
+        },
+        {
+            "id": 23,
+            "name": "Flamacue"
+        },
+        {
+            "id": 24,
+            "name": "Flam Paradiddle"
+        },
+        {
+            "id": 25,
+            "name": "Single Flammed Mill"
+        },
+        {
+            "id": 26,
+            "name": "Flam Paradiddle-Diddle"
+        },
+        {
+            "id": 27,
+            "name": "Pataflafla"
+        },
+        {
+            "id": 28,
+            "name": "Swiss Army Triplet"
+        },
+        {
+            "id": 29,
+            "name": "Inverted Flam Tap"
+        },
+        {
+            "id": 30,
+            "name": "Flam Drag"
+        },
+        {
+            "id": 31,
+            "name": "Drag (Ruff)"
+        },
+        {
+            "id": 32,
+            "name": "Single Drag Tap"
+        },
+        {
+            "id": 33,
+            "name": "Double Drag Tap"
+        },
+        {
+            "id": 34,
+            "name": "Lesson 25"
+        },
+        {
+            "id": 35,
+            "name": "Single Dragadiddle"
+        },
+        {
+            "id": 36,
+            "name": "Drag Paradiddle #1"
+        },
+        {
+            "id": 37,
+            "name": "Drag Paradiddle #2"
+        },
+        {
+            "id": 38,
+            "name": "Single Ratamacue"
+        },
+        {
+            "id": 39,
+            "name": "Double Ratamacue"
+        },
+        {
+            "id": 40,
+            "name": "Triple Ratamacue"
+        }
+    ],
+    "entries": [
+        {
+            "id": 1,
+            "bpm": 120,
+            "userId": 1,
+            "rudimentId": 1,
+            "approved": true,
+            "timestamp": 1519211809934
+        }
+    ]
+}
