@@ -51,31 +51,36 @@
             "id": 1,
             "userId": 3,
             "instructorId": 2,
-            "leaderboardAccess": false
+            "leaderboardAccess": false,
+            "img": "https://res.cloudinary.com/dcfyvy9gb/image/upload/defaults/ok9tqdl7bz9izu8bbkzh.jpg"
         },
         {
             "id": 2,
             "userId": 5,
             "instructorId": 4,
-            "leaderboardAccess": true
+            "leaderboardAccess": true,
+            "img": "https://res.cloudinary.com/dcfyvy9gb/image/upload/v1644256273/profilePics/ujrcwxbgq6hoonx63xyt.png"
         },
         {
             "id": 3,
             "userId": 6,
             "instructorId": 2,
-            "leaderboardAccess": true
+            "leaderboardAccess": true,
+            "img": "https://res.cloudinary.com/dcfyvy9gb/image/upload/v1644256331/profilePics/rpknf65mfzlokovt8roh.png"
         },
         {
             "id": 4,
             "userId": 7,
             "instructorId": 4,
-            "leaderboardAccess": true
+            "leaderboardAccess": true,
+            "img": "https://res.cloudinary.com/dcfyvy9gb/image/upload/v1644256405/profilePics/pzuvfltqyvn1s23zhxyy.jpg"
         },
         {
             "leaderboardAccess": false,
             "instructorId": 8,
             "userId": 9,
-            "id": 5
+            "id": 5,
+            "img": "https://res.cloudinary.com/dcfyvy9gb/image/upload/defaults/ok9tqdl7bz9izu8bbkzh.jpg"
         }
     ],
     "rudiments": [
@@ -318,6 +323,12 @@
             "name": "Triple Ratamacue",
             "img": "https://res.cloudinary.com/dcfyvy9gb/image/upload/v1643407305/rudiments/40_jd0mvx.png",
             "userId": 1
+        },
+        {
+            "name": "billy special",
+            "img": "https://2.bp.blogspot.com/-e7ArBi2RfnI/VqpffFLX_8I/AAAAAAAAAk0/_vq0DHi6_Qo/s1600/pic%2Bmeasure%2B4-5%2B230%2Bhollywood%2Bsquares.JPG",
+            "userId": 2,
+            "id": 41
         }
     ],
     "entries": [
